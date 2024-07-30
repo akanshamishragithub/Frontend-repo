@@ -1,0 +1,6 @@
+git branch
+git status
+git checkout -b branch_name
+git add .
+git commit -m "updated file message"
+git push origin branch_name
