@@ -16,6 +16,11 @@ git log
 push the  code changes  into the github server::
 git push origin branch_name
 
+Raise a pull request for developer once completed the features:
+- senior develop will review the code
+- He might give suggestion/Comments to improve the code.
+
+
 
 
 
