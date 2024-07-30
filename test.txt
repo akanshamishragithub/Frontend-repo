@@ -11,7 +11,7 @@ git commit -m "updated file message"
 git log
 push the  code changes  into the github server::
 git push origin branch_name
-git log
+
 
 
 
